@@ -1,4 +1,4 @@
-LINK: https://vercel.com/krtiins-projects/leetcode-clone/3De3Q1phsR4KSxRKq1hQphDDdUao
+LINK: [https://vercel.com/krtiins-projects/leetcode-clone/3De3Q1phsR4KSxRKq1hQphDDdUao](https://leetcode-clone-ruby.vercel.app/)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
